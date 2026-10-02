@@ -1,4 +1,5 @@
 📝 AI Blog Team Pro Studio
+
 An advanced multi-agent workspace built with CrewAI and Streamlit that automates trend research, content drafting, and SEO optimization.
 
 🚀 Key Features
